@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+	<type-mapping>
+		<sql-type jdbc-type="VARCHAR" hibernate-type="string"></sql-type>
+	</type-mapping>
+	<table-filter match-name="conta" match-schema="public"></table-filter>
+	<table-filter match-name="contapagamento" match-schema="public"></table-filter>
+	<table-filter match-name="historicopedidos" match-schema="public"></table-filter>
+	<table-filter match-name="item" match-schema="public"></table-filter>
+	<table-filter match-name="mesa" match-schema="public"></table-filter>
+	<table-filter match-name="pedidos" match-schema="public"></table-filter>
+	<table-filter match-name="statusmesa" match-schema="public"></table-filter>
+	<table-filter match-name="statuspedido" match-schema="public"></table-filter>
+	<table-filter match-name="tipoitem" match-schema="public"></table-filter>
+	<table-filter match-name="tipopagamento" match-schema="public"></table-filter>
+	<table schema="public" name="item">
+		<primary-key>
+			<generator class="sequence">
+				<param name="sequence">public.item_seq</param>
+			</generator>
+		</primary-key>
+	</table>
+
+	<table schema="public" name="contapagamento">
+		<primary-key>
+			<generator class="sequence">
+				<param name="sequence">public.conta_pagamento_seq</param>
+			</generator>
+		</primary-key>
+	</table>
+
+	<table schema="public" name="statuspedido">
+		<primary-key>
+			<generator class="sequence">
+				<param name="sequence">public.status_pedido_seq</param>
+			</generator>
+		</primary-key>
+	</table>
+
+	<table schema="public" name="tipopagamento">
+		<primary-key>
+			<generator class="sequence">
+				<param name="sequence">public.tipo_pagamento_seq</param>
+			</generator>
+		</primary-key>
+	</table>
+
+	<table schema="public" name="tipoitem">
+		<primary-key>
+			<generator class="sequence">
+				<param name="sequence">public.tipo_item_seq</param>
+			</generator>
+		</primary-key>
+	</table>
+
+	<table schema="public" name="statusmesa">
+		<primary-key>
+			<generator class="sequence">
+				<param name="sequence">public.status_mesa_seq</param>
+			</generator>
+		</primary-key>
+	</table>
+
+	<table schema="public" name="mesa">
+		<primary-key>
+			<generator class="sequence">
+				<param name="sequence">public.mesa_seq</param>
+			</generator>
+		</primary-key>
+	</table>
+	<table schema="public" name="pedidos">
+		<primary-key>
+			<generator class="sequence">
+				<param name="sequence">public.pedidos_seq</param>
+			</generator>
+		</primary-key>
+	</table>
+</hibernate-reverse-engineering>

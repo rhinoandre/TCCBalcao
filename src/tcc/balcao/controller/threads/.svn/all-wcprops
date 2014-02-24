@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/univastcc/!svn/ver/356/TCCBalcao/src/tcc/balcao/controller/threads
+END
+ReceptorCozinha.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/univastcc/!svn/ver/332/TCCBalcao/src/tcc/balcao/controller/threads/ReceptorCozinha.java
+END
+SocketMesaThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/univastcc/!svn/ver/214/TCCBalcao/src/tcc/balcao/controller/threads/SocketMesaThread.java
+END
+BuscarMesasSocketThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/univastcc/!svn/ver/332/TCCBalcao/src/tcc/balcao/controller/threads/BuscarMesasSocketThread.java
+END
+ReceptorMesas.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/univastcc/!svn/ver/356/TCCBalcao/src/tcc/balcao/controller/threads/ReceptorMesas.java
+END
+SocketCozinhaThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/univastcc/!svn/ver/214/TCCBalcao/src/tcc/balcao/controller/threads/SocketCozinhaThread.java
+END

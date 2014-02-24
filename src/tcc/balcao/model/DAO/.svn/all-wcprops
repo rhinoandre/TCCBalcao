@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/univastcc/!svn/ver/356/TCCBalcao/src/tcc/balcao/model/DAO
+END
+StatusPedidosDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/univastcc/!svn/ver/139/TCCBalcao/src/tcc/balcao/model/DAO/StatusPedidosDAO.java
+END
+ItemDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/univastcc/!svn/ver/201/TCCBalcao/src/tcc/balcao/model/DAO/ItemDAO.java
+END
+ContapagamentoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/univastcc/!svn/ver/311/TCCBalcao/src/tcc/balcao/model/DAO/ContapagamentoDAO.java
+END
+ContaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/univastcc/!svn/ver/228/TCCBalcao/src/tcc/balcao/model/DAO/ContaDAO.java
+END
+PedidosDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/univastcc/!svn/ver/356/TCCBalcao/src/tcc/balcao/model/DAO/PedidosDAO.java
+END
+TipoPagamentoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/univastcc/!svn/ver/311/TCCBalcao/src/tcc/balcao/model/DAO/TipoPagamentoDAO.java
+END
+HistoricoPedidoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/univastcc/!svn/ver/70/TCCBalcao/src/tcc/balcao/model/DAO/HistoricoPedidoDAO.java
+END
+MesasDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/univastcc/!svn/ver/318/TCCBalcao/src/tcc/balcao/model/DAO/MesasDAO.java
+END
+StatusMesaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/univastcc/!svn/ver/152/TCCBalcao/src/tcc/balcao/model/DAO/StatusMesaDAO.java
+END
+TipoItemDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/univastcc/!svn/ver/201/TCCBalcao/src/tcc/balcao/model/DAO/TipoItemDAO.java
+END

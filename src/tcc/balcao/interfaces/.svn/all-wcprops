@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/univastcc/!svn/ver/337/TCCBalcao/src/tcc/balcao/interfaces
+END
+Acoes.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/univastcc/!svn/ver/337/TCCBalcao/src/tcc/balcao/interfaces/Acoes.java
+END
+TiposPagamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/univastcc/!svn/ver/311/TCCBalcao/src/tcc/balcao/interfaces/TiposPagamento.java
+END
+StatusPedidos.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/univastcc/!svn/ver/336/TCCBalcao/src/tcc/balcao/interfaces/StatusPedidos.java
+END
+StatusMesas.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/univastcc/!svn/ver/292/TCCBalcao/src/tcc/balcao/interfaces/StatusMesas.java
+END

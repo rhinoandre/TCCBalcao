@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/univastcc/!svn/ver/318/TCCBalcao/src/tcc/balcao/model/entity
+END
+Contapagamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/univastcc/!svn/ver/205/TCCBalcao/src/tcc/balcao/model/entity/Contapagamento.java
+END
+Conta.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/univastcc/!svn/ver/260/TCCBalcao/src/tcc/balcao/model/entity/Conta.java
+END
+Mesa.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/univastcc/!svn/ver/318/TCCBalcao/src/tcc/balcao/model/entity/Mesa.java
+END
+Pedidos.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/univastcc/!svn/ver/260/TCCBalcao/src/tcc/balcao/model/entity/Pedidos.java
+END
+Tipopagamento.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/univastcc/!svn/ver/205/TCCBalcao/src/tcc/balcao/model/entity/Tipopagamento.java
+END
+Statuspedido.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/univastcc/!svn/ver/205/TCCBalcao/src/tcc/balcao/model/entity/Statuspedido.java
+END
+Statusmesa.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/univastcc/!svn/ver/205/TCCBalcao/src/tcc/balcao/model/entity/Statusmesa.java
+END
+Tipoitem.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/univastcc/!svn/ver/205/TCCBalcao/src/tcc/balcao/model/entity/Tipoitem.java
+END
+Historicopedidos.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/univastcc/!svn/ver/205/TCCBalcao/src/tcc/balcao/model/entity/Historicopedidos.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/univastcc/!svn/ver/205/TCCBalcao/src/tcc/balcao/model/entity/Item.java
+END
+IntervaloDataRelatorio.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/univastcc/!svn/ver/250/TCCBalcao/src/tcc/balcao/model/entity/IntervaloDataRelatorio.java
+END
